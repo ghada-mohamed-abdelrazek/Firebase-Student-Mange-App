@@ -7,7 +7,8 @@ Includes **Login / Signup**, **BLoC state management**, and **CRUD** for student
 
 ## 🎥 Demo Video
 
-▶️ **Watch Demo:** [https://YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1n-pDyc9jsAmaUpzRr4dK-Erj4mb0sz4Z/view?usp=sharing)
+[![Watch the demo](assets/screen shot/demo_thumbnail.jpeg)]((https://drive.google.com/file/d/1n-pDyc9jsAmaUpzRr4dK-Erj4mb0sz4Z/view?usp=sharing)
+
 
 ---
 
