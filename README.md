@@ -1,16 +1,54 @@
-# login_signup_flutter_firebase
+# Firebase Student Manage App (Flutter)
 
-A new Flutter project.
+A simple **Student Management** mobile app built with **Flutter + Firebase**.
+Includes **Login / Signup**, **BLoC state management**, and **CRUD** for student data (Add / View).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎥 Demo Video
 
-A few resources to get you started if this is your first Flutter project:
+▶️ **Watch Demo:** [https://YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1n-pDyc9jsAmaUpzRr4dK-Erj4mb0sz4Z/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Tip: Upload demo video as a GitHub Release asset or YouTube/Google Drive, then put the link here.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+
+> Put your screenshots inside: `assets/screenshots/`
+
+<p>
+  <img src="assets/screen shot/auth.jpeg" width="220" />
+  <img src="assets/screen shot/data_store.jpeg" width="220" />
+  <img src="assets/screen shot/add_student.jpeg" width="220" />
+    <img src="assets/screen shot/get_data.jpeg" width="220" />
+  <img src="assets/screen shot/login.jpeg" width="220" />
+  <img src="assets/screen shot/sigup.jpeg" width="220" />
+
+</p>
+---
+
+##  Features
+
+- ✅ Firebase Authentication
+  - Login
+  - Signup
+- ✅ BLoC / Cubit State Management
+- ✅ Student CRUD (Firestore)
+  - Add student data
+  - Read & display students on Home page
+- ✅ Clean UI with validation
+
+---
+
+## Tech Stack
+
+- Flutter (Dart)
+- Firebase Auth
+- Cloud Firestore
+- flutter_bloc
+- (Optional) firebase_storage (if you upload student images)
+
+---
+
+
