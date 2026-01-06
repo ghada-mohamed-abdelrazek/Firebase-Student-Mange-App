@@ -13,13 +13,13 @@ Includes **Login / Signup**, **BLoC state management**, and **CRUD** for student
 
 ## 📸 Screenshots
 
-<p>
+<p float="left">
   <img src="assets/screen shot/auth.jpeg" width="220" />
   <img src="assets/screen shot/data_store.jpeg" width="220" />
-  <img src="assets/screen shot/add_student.jpeg" width="220" />
-    <img src="assets/screen shot/get_data.jpeg" width="220" />
   <img src="assets/screen shot/login.jpeg" width="220" />
   <img src="assets/screen shot/sigup.jpeg" width="220" />
+  <img src="assets/screen shot/get_data.jpeg" width="220" />
+  <img src="assets/screen shot/add_student.jpeg" width="220" />
 
 </p>
 ---
