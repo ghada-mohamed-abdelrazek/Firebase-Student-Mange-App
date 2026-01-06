@@ -9,13 +9,9 @@ Includes **Login / Signup**, **BLoC state management**, and **CRUD** for student
 
 ▶️ **Watch Demo:** [https://YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1n-pDyc9jsAmaUpzRr4dK-Erj4mb0sz4Z/view?usp=sharing)
 
-> Tip: Upload demo video as a GitHub Release asset or YouTube/Google Drive, then put the link here.
-
 ---
 
 ## 📸 Screenshots
-
-> Put your screenshots inside: `assets/screenshots/`
 
 <p>
   <img src="assets/screen shot/auth.jpeg" width="220" />
